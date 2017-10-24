@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "youbot_arm_kinematics")
+set(youbot_arm_kinematics_MAINTAINER "Sven Schneider <sven.schneider@h-brs.de>")
+set(youbot_arm_kinematics_DEPRECATED "")
+set(youbot_arm_kinematics_VERSION "0.1.0")
+set(youbot_arm_kinematics_BUILD_DEPENDS "orocos_kdl")
+set(youbot_arm_kinematics_RUN_DEPENDS )
+set(youbot_arm_kinematics_BUILDTOOL_DEPENDS "catkin")

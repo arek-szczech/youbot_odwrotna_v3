@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "youbot_manipulation")
+set(youbot_manipulation_MAINTAINER "Sven Schneider <sven.schneider@h-brs.de>")
+set(youbot_manipulation_DEPRECATED "")
+set(youbot_manipulation_VERSION "0.1.0")
+set(youbot_manipulation_BUILD_DEPENDS )
+set(youbot_manipulation_RUN_DEPENDS )
+set(youbot_manipulation_BUILDTOOL_DEPENDS "catkin")

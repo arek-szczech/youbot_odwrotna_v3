@@ -1,0 +1,2 @@
+youbot-manipulation-hydro/youbot_arm_kinematics:youbot-manipulation-hydro/youbot_arm_kinematics_moveit:youbot-manipulation-hydro/youbot_manipulation:youbot-manipulation-hydro/youbot_moveit
+-DCATKIN_DEVEL_PREFIX=/home/arek/youbot_odwrotna_v3/devel -DCMAKE_INSTALL_PREFIX=/home/arek/youbot_odwrotna_v3/install

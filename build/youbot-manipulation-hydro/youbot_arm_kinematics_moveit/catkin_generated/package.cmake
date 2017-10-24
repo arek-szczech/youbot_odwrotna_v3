@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "youbot_arm_kinematics_moveit")
+set(youbot_arm_kinematics_moveit_MAINTAINER "Sven Schneider <sven.schneider@h-brs.de>")
+set(youbot_arm_kinematics_moveit_DEPRECATED "")
+set(youbot_arm_kinematics_moveit_VERSION "0.1.0")
+set(youbot_arm_kinematics_moveit_BUILD_DEPENDS "pluginlib" "moveit_core" "urdf" "tf_conversions" "youbot_arm_kinematics")
+set(youbot_arm_kinematics_moveit_RUN_DEPENDS "pluginlib" "moveit_core" "urdf" "tf_conversions" "youbot_arm_kinematics")
+set(youbot_arm_kinematics_moveit_BUILDTOOL_DEPENDS "catkin")

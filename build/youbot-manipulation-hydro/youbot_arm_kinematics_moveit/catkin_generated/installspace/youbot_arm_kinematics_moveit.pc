@@ -1,0 +1,8 @@
+prefix=/home/arek/youbot_odwrotna_v3/install
+
+Name: youbot_arm_kinematics_moveit
+Description: Description of youbot_arm_kinematics_moveit
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/arek/youbot_odwrotna_v3/install/lib 
+Requires: 
